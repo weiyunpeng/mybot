@@ -1,0 +1,17 @@
+.idea/
+.v8flags.*
+.vscode
+*.js.map
+log.json
+potential-posting.json
+.cache
+.cache.bak
+.yarnrc
+.yarn
+yarn.lock
+tmp
+npm-debug.log
+.sudo_as_admin_successful
+demo.wechaty.json
+.credentials
+node_modules
